@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "459331771667",
+    "firebase_url": "https://jumatransact.firebaseio.com",
+    "project_id": "jumatransact",
+    "storage_bucket": "jumatransact.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459331771667:android:e0ba5a54f8aa5974",
+        "android_client_info": {
+          "package_name": "com.demotxt.droidsrce.homedashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459331771667-a51ekplrtd0dn2rvm08q0e14o4vp0nm7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demotxt.droidsrce.homedashboard",
+            "certificate_hash": "99b04018c7b02ca2b6955fcdf0e71ffb89c87dea"
+          }
+        },
+        {
+          "client_id": "459331771667-mni52uiuqqk7ala9d5kn4npbci3m189u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjNQh8H2QsMeUk6VmDfDtGVbp1Xio1orc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459331771667-mni52uiuqqk7ala9d5kn4npbci3m189u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
